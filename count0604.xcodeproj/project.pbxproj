@@ -14,6 +14,7 @@
 		27EAD0351D02A271007A750A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27EAD0331D02A271007A750A /* LaunchScreen.storyboard */; };
 		27EAD0401D02A272007A750A /* count0604Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EAD03F1D02A272007A750A /* count0604Tests.swift */; };
 		27EAD04B1D02A272007A750A /* count0604UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EAD04A1D02A272007A750A /* count0604UITests.swift */; };
+		27EAD0591D02A2A0007A750A /* img_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 27EAD0581D02A2A0007A750A /* img_4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		27EAD0461D02A272007A750A /* count0604UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = count0604UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		27EAD04A1D02A272007A750A /* count0604UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = count0604UITests.swift; sourceTree = "<group>"; };
 		27EAD04C1D02A272007A750A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27EAD0581D02A2A0007A750A /* img_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = img_4.png; path = ../../../../Desktop/img_4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				27EAD02A1D02A271007A750A /* AppDelegate.swift */,
 				27EAD02C1D02A271007A750A /* ViewController.swift */,
 				27EAD02E1D02A271007A750A /* Main.storyboard */,
+				27EAD0581D02A2A0007A750A /* img_4.png */,
 				27EAD0311D02A271007A750A /* Assets.xcassets */,
 				27EAD0331D02A271007A750A /* LaunchScreen.storyboard */,
 				27EAD0361D02A271007A750A /* Info.plist */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27EAD0591D02A2A0007A750A /* img_4.png in Resources */,
 				27EAD0351D02A271007A750A /* LaunchScreen.storyboard in Resources */,
 				27EAD0321D02A271007A750A /* Assets.xcassets in Resources */,
 				27EAD0301D02A271007A750A /* Main.storyboard in Resources */,
