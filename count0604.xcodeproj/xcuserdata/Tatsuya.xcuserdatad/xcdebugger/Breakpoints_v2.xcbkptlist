@@ -10,73 +10,73 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "count0604/ViewController.swift"
-            timestampString = "486712995.936352"
+            timestampString = "486794524.141465"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "minus()"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "plus()"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "count0604/ViewController.swift"
-            timestampString = "486712609.414006"
+            timestampString = "486721346.401346"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
             landmarkName = "ViewController"
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "count0604.ViewController.label.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
                   moduleName = "count0604"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Tatsuya/Documents/iOSapp/count0604/count0604/ViewController.swift"
-                  timestampString = "486715295.667126"
+                  timestampString = "486794524.243515"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
                   offsetFromSymbolStart = "35">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "count0604.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; count0604.ViewController"
+                  symbolName = "count0604.ViewController.label.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
                   moduleName = "count0604"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Tatsuya/Documents/iOSapp/count0604/count0604/ViewController.swift"
-                  timestampString = "486715295.667733"
+                  timestampString = "486794524.243733"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
-                  offsetFromSymbolStart = "84">
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "65">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "count0604.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;count0604.ViewController&gt;"
                   moduleName = "count0604"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Tatsuya/Documents/iOSapp/count0604/count0604/ViewController.swift"
-                  timestampString = "486715295.668036"
+                  timestampString = "486794524.243924"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
                   offsetFromSymbolStart = "43">
                </Location>
             </Locations>
@@ -89,11 +89,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "count0604/ViewController.swift"
-            timestampString = "486712610.127213"
+            timestampString = "486721346.401346"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "13"
-            endingLineNumber = "13"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
             landmarkName = "ViewController"
             landmarkType = "3">
             <Locations>
@@ -105,12 +105,27 @@
                   moduleName = "count0604"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Tatsuya/Documents/iOSapp/count0604/count0604/ViewController.swift"
-                  timestampString = "486715400.930682"
+                  timestampString = "486794524.247778"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
                   offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "count0604.ViewController.number.setter : Swift.Int"
+                  moduleName = "count0604"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tatsuya/Documents/iOSapp/count0604/count0604/ViewController.swift"
+                  timestampString = "486794524.248087"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "23">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -120,27 +135,12 @@
                   moduleName = "count0604"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Tatsuya/Documents/iOSapp/count0604/count0604/ViewController.swift"
-                  timestampString = "486715400.931016"
+                  timestampString = "486794524.248228"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
                   offsetFromSymbolStart = "57">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "count0604.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;count0604.ViewController&gt;"
-                  moduleName = "count0604"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Tatsuya/Documents/iOSapp/count0604/count0604/ViewController.swift"
-                  timestampString = "486715400.931202"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "16">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -152,11 +152,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "count0604/ViewController.swift"
-            timestampString = "486712668.271884"
+            timestampString = "486794524.141465"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
             landmarkName = "plus()"
             landmarkType = "5">
          </BreakpointContent>
@@ -168,12 +168,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "count0604/ViewController.swift"
-            timestampString = "486712815.242539"
+            timestampString = "486794524.141465"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
-            landmarkName = "waru()"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "minus()"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -184,11 +184,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "count0604/ViewController.swift"
-            timestampString = "486713997.706784"
+            timestampString = "486794470.175896"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
             landmarkName = "kakeru()"
             landmarkType = "5">
          </BreakpointContent>
@@ -200,12 +200,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "count0604/ViewController.swift"
-            timestampString = "486713889.677596"
+            timestampString = "486794470.175896"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "kakeru()"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "waru()"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
